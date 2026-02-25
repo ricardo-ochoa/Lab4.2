@@ -48,8 +48,7 @@ Tras compilar y haber hecho `source install/setup.zsh` puedes lanzar nodos o dem
 # Lanzar una demo (reemplaza package y launch_file por nombres reales)
 ros2 launch <package> <launch_file>
 
-# Por ejemplo, para demos de gazebo_ros2_control (nombre de launch a verificar en el paquete)
-ros2 launch gazebo_ros2_control_demos <demo_launch>.py
+ros2 launch xarm_moveit_servo lite6_moveit_servo_realmove.launch.py robot_ip:=192.168.1.123
 ```
 
 Consulta los `launch` disponibles dentro de `src/gazebo_ros2_control` y `src/xarm_ros2` para encontrar ejemplos concretos.
