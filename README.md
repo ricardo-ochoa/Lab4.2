@@ -1,5 +1,5 @@
 # Lab4.2
-Repositorio para la actividad de laboratorio 4.2
+Repositorio para la actividad de laboratorio 4.2 pito
 
 Valentina Gonzalez Benedossi | A00839507 
 Ricardo Gaspar Ochoa | A00838841
